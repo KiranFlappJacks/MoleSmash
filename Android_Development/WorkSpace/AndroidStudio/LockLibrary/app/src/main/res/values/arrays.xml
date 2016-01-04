@@ -8,6 +8,8 @@
         <item>@null</item>
         <item>@drawable/screenlockpage_website_icon</item>
         <item>@null</item>
+        <item>@drawable/screenlockpage_fanpage_icon</item>
+        <item>@null</item>
     </array>
     <array name="snooze_dismiss_descriptions">
         <item>dismiss</item>
