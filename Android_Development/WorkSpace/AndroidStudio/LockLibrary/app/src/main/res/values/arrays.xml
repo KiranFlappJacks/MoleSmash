@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <array name="snooze_dismiss_drawables">
+        <item>@drawable/screenunlock_icon</item>
+        <item>@null</item>
+        <item>@drawable/screenlockpage_email_icon</item>
+        <item>@null</item>
+        <item>@drawable/screenlockpage_website_icon</item>
+        <item>@null</item>
+    </array>
+    <array name="snooze_dismiss_descriptions">
+        <item>dismiss</item>
+        <item>@null</item>
+        <item>snooze</item>
+        <item>@null</item>
+    </array>
+    <array name="snooze_dismiss_direction_descriptions">
+        <item>right</item>
+        <item>@null</item>
+        <item>left</item>
+        <item>@null</item>
+        <item>bottom</item>
+        <item>@null</item>
+    </array>
+
+</resources>
